@@ -1,4 +1,7 @@
 [core]
     remote = dagshub
 ['remote "dagshub"']
-    url = https://dagshub.com/TheWallOnFire/sentiment-dvc-data
+    url = https://dagshub.com/TheWallOnFire/sentiment-dvc-data.dvc
+    auth = basic
+    user = TheWallOnFire
+    password = 3ed4d27d41b97b4e819f5661127a42b767df4e67
